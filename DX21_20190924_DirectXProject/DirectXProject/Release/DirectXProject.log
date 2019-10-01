@@ -1,0 +1,48 @@
+﻿  bullet.cpp
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\bullet.cpp(83): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  collision.cpp
+  debug.cpp
+  debug_font.cpp
+  enemy.cpp
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\enemy.cpp(73): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\enemy.cpp(107): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\enemy.cpp(139): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\enemy.cpp(140): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  enemybullet.cpp
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\enemybullet.cpp(85): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  enemyGenerator.cpp
+  explosion.cpp
+  fade.cpp
+  game.cpp
+  input.cpp
+  judgement.cpp
+  main.cpp
+  mydirect3d.cpp
+  number.cpp
+  patternanimation.cpp
+  player.cpp
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\player.cpp(75): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\player.cpp(123): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\player.cpp(125): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\player.cpp(127): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\player.cpp(129): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  score.cpp
+  sound.cpp
+  sprite.cpp
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\sprite.cpp(129): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\sprite.cpp(160): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\sprite.cpp(353): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\sprite.cpp(387): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\sprite.cpp(489): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\sprite.cpp(524): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\sprite.cpp(559): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\sprite.cpp(594): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\sprite.cpp(631): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190717_directxproject\directxproject\sprite.cpp(666): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  コンパイル中...
+  system_timer.cpp
+  texture.cpp
+  コード生成しています。
+  All 134 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  DirectXProject.vcxproj -> C:\Users\ryo\Documents\Visual Studio 2017\Project\DX21_20190717_DirectXProject\Release\DirectXProject.exe

@@ -1,0 +1,22 @@
+﻿// SoundIDs
+static const unsigned int STRM_CYLINDER = 0x01000000;
+static const unsigned int STRM_NIGHT_DRIVE = 0x01000001;
+static const unsigned int WSD_DECISION24 = 0x01000002;
+static const unsigned int WSD_STONE_BREAK1 = 0x01000003;
+static const unsigned int WSD_WATER_DROP1 = 0x01000004;
+static const unsigned int WSD_WATER_DROP2 = 0x01000005;
+
+// SoundGroupIDs
+// WaveSoundSetIDs
+static const unsigned int WSDSET = 0x02000000;
+// SequenceSoundSetIDs
+
+// BankIDs
+
+// PlayerIDs
+static const unsigned int BGM = 0x04000000;
+static const unsigned int SE = 0x04000001;
+
+// WaveArchiveIDs
+
+// GroupIDs

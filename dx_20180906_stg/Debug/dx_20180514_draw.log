@@ -1,0 +1,6 @@
+﻿  title.cpp
+c:\users\masuzima.ryou\documents\visual studio 2015\projects\dx_20180906_stg\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\masuzima.ryou\documents\visual studio 2015\projects\dx_20180906_stg\title.cpp(70): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\masuzima.ryou\documents\visual studio 2015\projects\dx_20180906_stg\title.cpp(71): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\masuzima.ryou\documents\visual studio 2015\projects\dx_20180906_stg\title.cpp(72): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  dx_20180514_draw.vcxproj -> C:\Users\masuzima.ryou\Documents\Visual Studio 2015\Projects\dx_20180906_stg\Debug\dx_20180514_draw.exe

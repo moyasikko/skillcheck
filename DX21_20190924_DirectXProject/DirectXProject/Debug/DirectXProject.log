@@ -1,0 +1,23 @@
+﻿  bullet.cpp
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(88): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(134): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(135): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(149): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(150): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(168): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(169): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(183): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(184): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(202): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(203): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(217): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(218): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(236): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(237): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(251): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(252): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(270): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(271): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(285): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryo\documents\visual studio 2017\project\dx21_20190924_directxproject\directxproject\bullet.cpp(286): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  DirectXProject.vcxproj -> C:\Users\ryo\Documents\Visual Studio 2017\Project\DX21_20190924_DirectXProject\Debug\DirectXProject.exe

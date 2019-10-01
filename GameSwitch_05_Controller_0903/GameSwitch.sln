@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameSwitch", "GameSwitch.vcxproj", "{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|NX32 = Debug|NX32
+		Debug|NX64 = Debug|NX64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Develop|NX32 = Develop|NX32
+		Develop|NX64 = Develop|NX64
+		Develop|Win32 = Develop|Win32
+		Develop|x64 = Develop|x64
+		Release|NX32 = Release|NX32
+		Release|NX64 = Release|NX64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Debug|NX32.ActiveCfg = NX_Debug|NX32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Debug|NX32.Build.0 = NX_Debug|NX32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Debug|NX64.ActiveCfg = NX_Debug|NX64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Debug|NX64.Build.0 = NX_Debug|NX64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Debug|Win32.ActiveCfg = NX_VS2015_Debug|Win32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Debug|Win32.Build.0 = NX_VS2015_Debug|Win32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Debug|x64.ActiveCfg = NX_VS2015_Debug|x64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Debug|x64.Build.0 = NX_VS2015_Debug|x64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Develop|NX32.ActiveCfg = NX_Develop|NX32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Develop|NX32.Build.0 = NX_Develop|NX32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Develop|NX64.ActiveCfg = NX_Develop|NX64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Develop|NX64.Build.0 = NX_Develop|NX64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Develop|Win32.ActiveCfg = NX_VS2015_Develop|Win32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Develop|Win32.Build.0 = NX_VS2015_Develop|Win32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Develop|x64.ActiveCfg = NX_VS2015_Develop|x64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Develop|x64.Build.0 = NX_VS2015_Develop|x64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Release|NX32.ActiveCfg = NX_Release|NX32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Release|NX32.Build.0 = NX_Release|NX32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Release|NX64.ActiveCfg = NX_Release|NX64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Release|NX64.Build.0 = NX_Release|NX64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Release|Win32.ActiveCfg = NX_VS2015_Release|Win32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Release|Win32.Build.0 = NX_VS2015_Release|Win32
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Release|x64.ActiveCfg = NX_VS2015_Release|x64
+		{9B435CF7-A9AC-419E-A15E-C4E0F9D22FDD}.Release|x64.Build.0 = NX_VS2015_Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

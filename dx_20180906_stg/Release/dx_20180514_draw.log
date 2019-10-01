@@ -1,0 +1,59 @@
+﻿  anime.cpp
+  background.cpp
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\background.cpp(29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  boss.cpp
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\boss.cpp(102): warning C4305: '*=': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\boss.cpp(119): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\boss.cpp(120): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\boss.cpp(181): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\boss.cpp(181): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\boss.cpp(182): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  bullet.cpp
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\bullet.cpp(145): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\bullet.cpp(146): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\bullet.cpp(163): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\bullet.cpp(164): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\bullet.cpp(197): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\bullet.cpp(199): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\bullet.cpp(200): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  effect.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\effect.cpp(87): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\effect.cpp(88): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  enemy.cpp
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(198): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(199): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(207): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(208): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(225): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(415): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(428): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(429): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(435): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(436): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(481): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(482): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\enemy.cpp(483): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  explosion.cpp
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\explosion.cpp(30): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  frame.cpp
+  item.cpp
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\item.cpp(72): warning C4305: '+=': 'double' から 'FLOAT' へ切り詰めます。
+  number.cpp
+  option.cpp
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\option.cpp(42): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\option.cpp(109): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  sound.cpp
+  warnig.cpp
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\warnig.cpp(38): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\warnig.cpp(39): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\warnig.cpp(40): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\warnig.cpp(40): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\warnig.cpp(41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ryou\documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\warnig.cpp(41): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  15 of 223 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  dx_20180514_draw.vcxproj -> C:\Users\ryou\Documents\新しいフォルダー\新しいフォルダー\dx_20180906_stg\Release\dx_20180514_draw.exe
